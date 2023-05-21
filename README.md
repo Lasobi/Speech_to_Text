@@ -3,9 +3,11 @@
 This is a simple application written in Python, utilizing the tkinter GUI toolkit to record audio, detect the language of the speech, decode the audio into text, and copy the resulting text to the clipboard.
 
 ## Requirements
+* Python 3.6 or higher
+
 You can install the necessary Python libraries with pip:
 ```sh
-pip install sounddevice soundfile pyperclip
+pip install -r requirements.txt
 ```
 ## Using Audio Recorder and Speech Decoder
 1. Clone the repository to your local machine.

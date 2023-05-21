@@ -1,0 +1,6 @@
+argparse
+tkinter
+sounddevice
+openai-whisper
+soundfile
+pyperclip

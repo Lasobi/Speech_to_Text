@@ -1,5 +1,4 @@
 argparse
-tkinter
 sounddevice
 openai-whisper
 soundfile
